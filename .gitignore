@@ -4,5 +4,3 @@ __pycache__/
 *.pyc
 *.pyo
 .cache/
-models/*/
-!models/t5_tokenizer/spiece.model
